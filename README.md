@@ -1,8 +1,8 @@
-# Citizen Musician - Our Bodies, Our Music
+# 2014 Allied Media Conference presentation:
 
 ![Alt text](html/assets/amc_program.png?raw=true "Citizen Musican - Our Bodies, Our Music")
 
 DIY MIDI trigger presentation and interactive workshop developed for and delivered at Detroit’s Allied Media Conference.
 
 ## Check out the presentation here:
-  https://kerbyferris.github.io/chakrates/html
+  https://kerbyferris.github.io/citizen-musician
