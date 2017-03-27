@@ -1,7 +1,7 @@
 # 2014 Allied Media Conference
 	DIY MIDI trigger presentation and interactive workshop
 
-![Alt text](assets/amc_program.png?raw=true "Citizen Musican - Our Bodies, Our Music")
-![Alt text](assets/citizen_musician.gif?raw=true "Photo resistor demo")
+[![Citizen Musician - Our Bodies, Our Music](assets/amc_program.png)](https://kerbyferris.github.io/citizen-musician)
+[![Photo Resistor Demo](assets/citizen_musician.gif)](https://kerbyferris.github.io/citizen-musician/assets/FB522D89-9501-41D1-9144-97F128A2D309/assets/PawPrinceDemo.mp4-0.0000-67.4007.m4v)
 
-## Check out the presentation here: [kerbyferris.github.io/citizen-musician](https://kerbyferris.github.io/citizen-musician target=_blank")
+### Check out the presentation here: [kerbyferris.github.io/citizen-musician](https://kerbyferris.github.io/citizen-musician)
