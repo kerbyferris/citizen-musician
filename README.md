@@ -8,4 +8,4 @@ DIY MIDI trigger presentation and interactive workshop
 
 ![MIDI Trigger and Circuit Box](public/citizen-musician.jpg)
 
-## Check out the presentation [here](./public/CitizenMusician.pdf)
+## Check out the presentation [here](public/CitizenMusician.pdf)
